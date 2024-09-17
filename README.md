@@ -19,6 +19,7 @@ To start up, you need to install some packages. Our implementation is based on [
 - The data preparation is the same as ORCA [link](https://github.com/snap-stanford/orca). For cifar100 and cifar10, they will be downloaded automantically and you don't need to configure the dataset. For the Imagenet100, you need to download the ImageNet dataset first and then generate corresponding splitting lists via ```gen_imagenet_list.py``` .
 - For We use SimCLR for pretraining. The weights used in our paper can be downloaded in this [link](https://drive.google.com/file/d/19tvqJYjqyo9rktr3ULTp_E33IqqPew0D/view?usp=sharing).
 - The pretrained checkpoints will be saved in ```./pretrained/``` while the datasets will be saved in ```./datasets/```. These settings are the same with the ORCA [link](https://github.com/snap-stanford/orca).
+- **You also need to create a empty folder name ```./checkpoints/''' under the root path to store the parameters of the model.**
 
 **Get Started**
 
