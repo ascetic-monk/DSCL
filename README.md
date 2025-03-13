@@ -1,5 +1,5 @@
 # Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification
-Pytorch implement of "Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification" in TNNLS 2024 (under review). 
+Pytorch implement of "Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification" in TNNLS 2025 (Accepted). 
 _________________
 
 
